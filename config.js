@@ -7,23 +7,23 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
+global.botnumber = "*『🔥┇LEVAI-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['2490100633482', 'L,E,V,A,I, ❦︎', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['2490100633482'];
+global.prems = ['2490100633482'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
+global.packname = '☾︎ LEVAI 𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.author = '✩LEVAI-𝙱𝙾𝚃☆';
+global.wm = '✯LEVAI 𝐁𝐎𝐓-𝐌𝐃✯';
 global.vs = 'V2 • 1.0.5':
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.titulowm = '☾︎ LEVAI 𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.titulowm2 = `☾︎ LEVAI BOT-𝙈𝘿 ☽︎`
+global.igfg = '☾︎ LEVAI BOT-𝙈𝘿 ☽︎';
+global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/LEVAI*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -43,11 +43,11 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.wm2 = `${dia} ${fecha}\n☾︎ LEVAI BOT-𝙈𝘿 ☽︎`;
+global.gt = '☾︎ LEVAI BOT-MD ☽︎';
+global.mysticbot = '☾︎ LEVAI BOT ☽︎';
 global.md = 'atom.bio/mego51_51';
-global.mysticbot = 'atom.bio/mego51_51';
+global.mysticbot = 'atom.bio/LEVAI ';
 global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
