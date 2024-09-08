@@ -1,7 +1,7 @@
-//ميجو يحبكم 🤭❤️
+//نيترو يحبكم 🤭❤️
 //اهينك اذا تغير المصدر
 //قناه المصدر
-//https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x
+//https://whatsapp.com/channel/0029VaoSo4yBPzjSNSsa6B1C
 
 import { googleImage } from '@bochilteam/scraper'
 let handler = async (m, { conn, text, usedPrefix, command }) => {
