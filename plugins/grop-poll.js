@@ -1,6 +1,6 @@
-//ميجو يحبكم 🤭❤️
+//نيترو يحبكم 🤭❤️
 //قناه المصدر
-//https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x
+//https://whatsapp.com/channel/0029VaoSo4yBPzjSNSsa6B1C
 
 const handler = async (m, {conn, text, args, usedPrefix, command}) => {
   let name = await conn.getName(m.sender);
