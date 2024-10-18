@@ -10,20 +10,20 @@ import moment from 'moment-timezone';
 global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['967780143832', '😎Emperor of magic🍀', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['967780143832'];
+global.prems = ['967780143832'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
+global.packname = '۰۪۫P۪۫۰۰۪۫S۪۫۰۰۪۫Y۪۫۰۰۪۫C۪۫۰۰۪۫H۪۫۰۰۪۫O۪۫۰ ۰۪۫A۪۫۰۰۪۫S۪۫۰۰۪۫T۪۫۰۰۪۫A۪۫۰ B۰۪۫O۪۫۰۰۪۫T۪۫۰';
+global.author = '';
+global.wm = '🍀 𝐏𝐒𝐘𝐂𝐇𝐎 𝐀𝐒𝐓𝐀 𝐁𝐎𝐓 🍀';
 global.vs = 'V2 • 1.0.5';
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.titulowm = '🍀𝐏𝐒𝐘𝐂𝐇𝐎 𝐀𝐒𝐓𝐀 𝐁𝐎𝐓 🍀';
+global.titulowm2 = `🍀 𝐏𝐒𝐘𝐂𝐇𝐎 𝐀𝐒𝐓𝐀 𝐁𝐎𝐓 🍀`
+global.igfg = '🍀 𝐏𝐒𝐘𝐂𝐇𝐎 𝐀𝐒𝐓𝐀 𝐁𝐎𝐓 🍀';
+global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/anme_king1090?igsh=OXhyaDc2b2xzcmhv*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -43,15 +43,15 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.md = 'atom.bio/mego51_51';
-global.mysticbot = 'atom.bio/mego51_51';
-global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.nomorown = '201025663589';
+global.wm2 = `${dia} ${fecha}\n🍀 𝐏𝐒𝐘𝐂𝐇𝐎 𝐀𝐒𝐓𝐀 𝐁𝐎𝐓 🍀`;
+global.gt = '🍀 𝐏𝐒𝐘𝐂𝐇𝐎 𝐀𝐒𝐓𝐀 𝐁𝐎𝐓 🍀';
+global.mysticbot = '🍀 𝐏𝐒𝐘𝐂𝐇𝐎 𝐀𝐒𝐓𝐀 𝐁𝐎𝐓 🍀';
+global.md = 'https://www.instagram.com/anme_king1090?igsh=OXhyaDc2b2xzcmhv';
+global.mysticbot = 'https://www.instagram.com/anme_king1090?igsh=OXhyaDc2b2xzcmhv';
+global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/anme_king1090?igsh=OXhyaDc2b2xzcmhv*';
+global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/anme_king1090?igsh=OXhyaDc2b2xzcmhv*';
+global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*https://www.instagram.com/anme_king1090?igsh=OXhyaDc2b2xzcmhv*';
+global.nomorown = '967780143832';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
@@ -66,8 +66,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*';
 global.htka = '*☪ ••••̩̩͙⊰•⭑*';
 global.comienzo = '• • ◕◕════';
 global.fin = '════◕◕ • •';
-global.botdate = `*[ 📅 ] التاريخ:*  ${moment.tz('Egypt/cairo_city').format('DD/MM/YY')}`;
-global.bottime = `*[ ⏳ ] الوقت:* ${moment.tz('Egypt/cairo_city').format('HH:mm:ss')}`;
+global.botdate = `*[ 📅 ] التاريخ:*  ${moment.tz('Yemen /sana"a').format('D/MM/YY')}`;
+global.bottime = `*[ ⏳ ] الوقت:* ${moment.tz('Yemen/snaa').format('HH:mm:ss')}`;
 global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.png')}}};
 global.multiplier = 99;
 global.flaaa = [
