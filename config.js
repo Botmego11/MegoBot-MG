@@ -21,7 +21,7 @@ global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
 global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
 global.vs = 'V2 • 1.0.5';
 global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
+global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈 ☽︎`
 global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
 global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 
